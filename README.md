@@ -118,25 +118,6 @@ The notes are framework-agnostic, but scikit-learn can be used for
 practical implementation.
 
 ------------------------------------------------------------------------
-
-## Portfolio Relevance
-
-This repository demonstrates:
-
--   Structured technical documentation
--   Conceptual clarity in algorithm taxonomy
--   Ability to organize foundational ML knowledge
--   Educational content development using Markdown and diagrammatic
-    workflows
-
-It can serve as:
-
--   A teaching supplement
--   A foundational ML primer
--   A documentation sample for academic or industry applications
-
-------------------------------------------------------------------------
-
 ## License
 
 This material is intended for educational and academic use.\
